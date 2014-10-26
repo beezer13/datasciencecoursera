@@ -1,4 +1,4 @@
-run_analysis.R codebook
+run_analysis.R 
 
 This script collects a dataset from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip containg data realting to activities recorded from accelerometers in smartphones. The information on this dataset can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones This data is then cleaned and tidied as follows:
 
